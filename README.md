@@ -24,13 +24,13 @@ This is a simple Guessing Game developed in C++ as part of my internship at Prod
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/guessing-game.git
+    git clone https://github.com/divyan7982/PRODIGY_SD_02.git
     ```
 
 2. **Navigate to the Project Directory:**
 
     ```bash
-    cd guessing-game
+    cd PRODIGY_SD_02
     ```
 
 ### Running the Game
